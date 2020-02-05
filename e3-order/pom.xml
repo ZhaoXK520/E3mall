@@ -7,6 +7,7 @@
   </parent>
   <artifactId>e3-order</artifactId>
   <packaging>pom</packaging>
+  
   <modules>
   	<module>e3-order-interface</module>
   	<module>e3-order-service</module>
