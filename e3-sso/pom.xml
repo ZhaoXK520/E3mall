@@ -5,6 +5,7 @@
     <artifactId>e3-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
+  
   <artifactId>e3-sso</artifactId>
   <packaging>pom</packaging>
   <modules>
