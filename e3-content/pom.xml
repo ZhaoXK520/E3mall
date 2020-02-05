@@ -9,6 +9,7 @@
 	<artifactId>e3-content</artifactId>
 	<packaging>pom</packaging>
 	<modules>
+	
 		<module>e3-content-interface</module>
 		<module>e3-content-service</module>
 	</modules>
